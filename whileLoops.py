@@ -1,4 +1,4 @@
-#nested for loops used when you knoe exact number of things
+#nested for loops used when you know exact number of things
 # nums = range(1, 10000)
 # for num in nums :
 #     for letter in 'abc':
